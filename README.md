@@ -1,4 +1,4 @@
-# YTS 영화 데이터 API와 React 프레임워크를 사용하여 영화 웹사이트 만들기
+# YTS 영화 데이터 API와 React 라이브러리를 사용하여 영화 웹사이트 만들기
 ![image](https://user-images.githubusercontent.com/79166339/112873686-ec90c100-90fc-11eb-84c7-e95adb075d95.png)
 
 ### 주요 기능
@@ -14,6 +14,7 @@
 * Props, prop-types
 * state
 * 함수형 컴포넌트와 클래스형 컴포넌트
+* 라이프사이클 & 라이프사이클이벤트
 * 로딩 및 리다이렉트 기능
 * HashRouter와 Route 컴포넌트
 
